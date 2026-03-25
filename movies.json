@@ -1,5 +1,75 @@
 [
   {
+"id": 45,
+"title": "RRR",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/NTR/RRR.jpg",
+"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/NTR/RRR.mp4",
+"description":"Set in the 1920s during the British Raj in India, the film is a fictionalized tale based on two real-life Indian revolutionaries: Alluri Sitarama Raju (played by Ram Charan) and Komaram Bheem (played by Jr. NTR). The story explores a scenario where these two freedom fighters, who never actually met in real life, cross paths and form a deep friendship, unaware of each other's true identities or ultimate goals. Raju, a cop working for the British, and Bheem, a tribal leader aiming to rescue a kidnapped girl, eventually align in a spectacular battle against the British Empire",
+"director": "S.S. Rajamoul",
+"year": "2025",
+"genre": "Action-Drama"
+},
+{
+"id": 44,
+"title": "Kannappa",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Kannappa-44.jpg",
+"video": "",
+"description": "An Indian Telugu-language pan-India epic film based on the Hindu legend of Kannappa, a fierce tribal hunter and fervent devotee of Lord Shiva who sacrifices his own eyes to prove his devotion. The film follows his journey from an skeptic warrior to a legendary saint.",
+"director": "Mukesh Kumar Singh",
+"year": "2025",
+"genre": "Action, Drama, Fantasy, Period, Devotional"
+},
+{
+"id": 40,
+"title": "Naa Peru Surya, Naa Illu India",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Naa-Peru-Surya-Naa-Illu-India-18.jpg",
+"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/naa-peru-surya-fixed.mp4",
+"description": "An army officer with anger issues must prove his discipline and patriotism.",
+"director": "Vakkantham Vamsi",
+"year": "2018",
+"genre": "Action"
+},
+{
+  "id": 22,
+  "title": "Raja Saab",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/raja_saab-22.jpg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Raja_saab.mp4",
+  "description": "The film is written and directed by Maruthi, known for his work in the horror-comedy genre. It is his first collaboration with Prabhas.",
+  "director": "Maruthi Dasari",
+  "year": "2026",
+  "genre": "Horror-comedy, Romance, Fantasy"
+},
+{
+  "id": 21,
+  "title": "Salaar: Part 1 – Ceasefire",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Salaar-21.jpeg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Salaar_part_1.mp4",
+  "description": "Two friends become enemies in a violent kingdom.",
+  "director": "Prashanth Neel",
+  "year": "2023",
+  "genre": "Action, Thriller"
+},
+{
+  "id": 18,
+  "title": "Baahubali: The Conclusion",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubali-18.jpg",
+  "video": "",
+  "description": "The story of Mahishmati kingdom continues with epic battles.",
+  "director": "S. S. Rajamouli",
+  "year": "2017",
+  "genre": "Action, Fantasy"
+},
+{
+  "id": 17,
+  "title": "Baahubali: The Beginning",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubaali-17.jpg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Baahubali_1.mp4",
+  "description": "A young man learns about his royal heritage and destiny.",
+  "director": "S. S. Rajamouli",
+  "year": "2015",
+  "genre": "Action, Fantasy"
+},
+  {
   "id": 1,
   "title": "Eeswar",
   "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Eeswar-1.jpg",
@@ -160,26 +230,6 @@
   "genre": "Action, Drama"
 },
 {
-  "id": 17,
-  "title": "Baahubali: The Beginning",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubaali-17.jpg",
-  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Baahubali_1.mp4",
-  "description": "A young man learns about his royal heritage and destiny.",
-  "director": "S. S. Rajamouli",
-  "year": "2015",
-  "genre": "Action, Fantasy"
-},
-{
-  "id": 18,
-  "title": "Baahubali: The Conclusion",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubali-18.jpg",
-  "video": "",
-  "description": "The story of Mahishmati kingdom continues with epic battles.",
-  "director": "S. S. Rajamouli",
-  "year": "2017",
-  "genre": "Action, Fantasy"
-},
-{
   "id": 19,
   "title": "Saaho",
   "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Saaho-19.jpg",
@@ -199,31 +249,6 @@
   "year": "2022",
   "genre": "Romance, Drama"
 },
-{
-  "id": 21,
-  "title": "Salaar: Part 1 – Ceasefire",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Salaar-21.jpeg",
-  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Salaar_part_1.mp4",
-  "description": "Two friends become enemies in a violent kingdom.",
-  "director": "Prashanth Neel",
-  "year": "2023",
-  "genre": "Action, Thriller"
-},
-{
-  "id": 22,
-  "title": "Raja Saab",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/raja_saab-22.jpg",
-  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Raja_saab.mp4",
-  "description": "The film is written and directed by Maruthi, known for his work in the horror-comedy genre. It is his first collaboration with Prabhas.",
-  "director": "Maruthi Dasari",
-  "year": "2026",
-  "genre": "Horror-comedy, Romance, Fantasy"
-},
-
-
-
-
-
 {
 "id": 23,
 "title": "Gangotri",
@@ -395,16 +420,6 @@
 "genre": "Action, Comedy"
 },
 {
-"id": 40,
-"title": "Naa Peru Surya, Naa Illu India",
-"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Naa-Peru-Surya-Naa-Illu-India-18.jpg",
-"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/naa-peru-surya-fixed.mp4",
-"description": "An army officer with anger issues must prove his discipline and patriotism.",
-"director": "Vakkantham Vamsi",
-"year": "2018",
-"genre": "Action"
-},
-{
 "id": 41,
 "title": "Ala Vaikunthapurramuloo",
 "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Ala_Vaikunthapurramuloo-19.jpeg",
@@ -434,6 +449,8 @@
 "year": "2024",
 "genre": "Action, Crime"
 }
+
+
 ]
 
 
