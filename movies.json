@@ -11,16 +11,6 @@
   },
   {
     "id": 17,
-    "title": "Dhurandhar: The Revenge",
-    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Dubbed/Dhurandhar.jpeg",
-    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Dubbed/Dhurandhar-+The+Revenge.mp4",
-    "description": "An undercover agent rises in Pakistan seeking revenge for his family's murder.",
-    "director": "Aditya Dhar",
-    "year": "2026",
-    "genre": "Action, Spy Thriller, Crime"
-  },
-  {
-    "id": 16,
     "title": "Youth",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Other/Youth.png",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/Youth.mp4",
@@ -30,7 +20,27 @@
     "genre": "Comedy, Drama, Romance"
   },
   {
+    "id": 16,
+    "title": "Happy Raj",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjZQOEvyCwjCnwk172ZsldtI9nXhT6HkgBw&s",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/Happy_Raj_FIXED.mp4",
+    "description": "A cheerful young man navigates friendship, love, and family struggles.",
+    "director": "Unknown",
+    "year": "2026",
+    "genre": "Drama, Family"
+  },
+  {
     "id": 15,
+    "title": "Dhurandhar: The Revenge",
+    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Dubbed/Dhurandhar.jpeg",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Dubbed/Dhurandhar-+The+Revenge.mp4",
+    "description": "An undercover agent rises in Pakistan seeking revenge for his family's murder.",
+    "director": "Aditya Dhar",
+    "year": "2026",
+    "genre": "Action, Spy Thriller, Crime"
+  },
+  {
+    "id": 14,
     "title": "Raja Saab",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/raja_saab-22.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Raja_saab.mp4",
@@ -40,27 +50,7 @@
     "genre": "Horror-comedy, Romance, Fantasy"
   },
   {
-    "id": 14,
-    "title": "Happy Raj",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjZQOEvyCwjCnwk172ZsldtI9nXhT6HkgBw&s",
-    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/Happy_Raj_FIXED.mp4",
-    "description": "A cheerful young man navigates friendship, love, and family struggles.",
-    "director": "Unknown",
-    "year": "2025",
-    "genre": "Drama, Family"
-  },
-  {
     "id": 13,
-    "title": "RRR",
-    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/NTR/RRR.jpg",
-    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/NTR/RRR.mp4",
-    "description": "A fictional story of two Indian revolutionaries fighting against the British Empire.",
-    "director": "S.S. Rajamouli",
-    "year": "2025",
-    "genre": "Action-Drama"
-  },
-  {
-    "id": 12,
     "title": "Kannappa",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Kannappa-44.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Kannappa.mp4",
@@ -70,7 +60,7 @@
     "genre": "Action, Drama, Fantasy, Period, Devotional"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Pushpa 2: The Rule",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Pushpa_The_Rule-21.jpeg",
     "video": "",
@@ -80,7 +70,7 @@
     "genre": "Action, Crime"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Salaar: Part 1 – Ceasefire",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Salaar-21.jpeg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Salaar_part_1.mp4",
@@ -88,6 +78,16 @@
     "director": "Prashanth Neel",
     "year": "2023",
     "genre": "Action, Thriller"
+  },
+  {
+    "id": 10,
+    "title": "RRR",
+    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/NTR/RRR.jpg",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/NTR/RRR.mp4",
+    "description": "A fictional story of two Indian revolutionaries fighting against the British Empire.",
+    "director": "S.S. Rajamouli",
+    "year": "2022",
+    "genre": "Action-Drama"
   },
   {
     "id": 9,
