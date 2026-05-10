@@ -1,5 +1,15 @@
 [
   {
+  "id": 52,
+  "title": "Swapped",
+  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGiVugmPpTfOus0Dr_L9s6UP0F1aWZlN3Hw&s",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Animated/Swapped.mp4",
+  "description": "The story is set in a fantastical valley and follows Ollie (voiced by Michael B. Jordan), a small pookoo (a furry mammal), and Ivy (Juno Temple), a majestic bird known as a javan. As sworn enemies, their lives are turned upside down when a magical plant mishap forces them into each other's bodies. They must navigate the wild ecosystem and overcome their mutual animosity to survive. It is described as a Freaky Friday style story within the animal kingdom, focusing on themes of empathy and cooperation",
+  "director": "Nathan Greno",
+  "year": "2026",
+  "genre": "Romance, Comedy, Drama"
+},
+  {
   "id": 51,
   "title": "Pelli Choopulu",
   "thumbnail": "https://sund-images.sunnxt.com/7766/1000x1500_PelliChupulu_7766_b5fed837-1fac-4911-839e-318ba656117f.jpg",
