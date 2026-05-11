@@ -1,6 +1,6 @@
 [
   {
-  "id": 19,
+  "id": 20,
   "title": "Love Insurance Kompany",
   "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
   "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/LIK.mkv",
@@ -10,7 +10,7 @@
   "genre": "Romance, Sci-Fi, Comedy"
 },
   {
-    "id": 18,
+    "id": 19,
     "title": "Swapped",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGiVugmPpTfOus0Dr_L9s6UP0F1aWZlN3Hw&s",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Animated/Swapped.mp4",
@@ -20,7 +20,7 @@
     "genre": "Romance, Comedy, Drama"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Youth",
     "thumbnail": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/Youth.mp4",
@@ -30,7 +30,7 @@
     "genre": "Comedy, Drama, Romance"
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "Happy Raj",
     "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjZQOEvyCwjCnwk172ZsldtI9nXhT6HkgBw&s",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Other/Happy_Raj_FIXED.mp4",
@@ -40,7 +40,7 @@
     "genre": "Drama, Family"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "Dhurandhar: The Revenge",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Dubbed/Dhurandhar.jpeg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Dubbed/Dhurandhar-+The+Revenge.mp4",
@@ -50,7 +50,7 @@
     "genre": "Action, Spy Thriller, Crime"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Raja Saab",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/raja_saab-22.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Raja_saab.mp4",
@@ -60,7 +60,7 @@
     "genre": "Horror-comedy, Romance, Fantasy"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "Kannappa",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Kannappa-44.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Kannappa.mp4",
@@ -70,15 +70,25 @@
     "genre": "Action, Drama, Fantasy, Period, Devotional"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "Pushpa 2: The Rule",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Pushpa_The_Rule-21.jpeg",
-    "video": "",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/AA/Pushpa_2_The_Rule.mkv",
     "description": "Pushpa continues his rise while facing powerful enemies and political forces.",
     "director": "Sukumar",
     "year": "2024",
     "genre": "Action, Crime"
   },
+  {
+  "id": 12, 
+  "title": "Hi Nanna",
+  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2DJAqNidqNov7J2B6qYZ1VooBrFUsAHivng&s", 
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Nani/Hi_Nanna.mkv",
+  "description": "A heartwarming emotional drama about a father, his daughter, and a beautiful love story filled with emotions and memories.",
+  "director": "Shouryuv",
+  "year": "2023",
+  "genre": "Romance, Drama, Family"
+},
   {
     "id": 11,
     "title": "Salaar: Part 1 – Ceasefire",
